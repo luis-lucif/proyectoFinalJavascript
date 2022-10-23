@@ -1,0 +1,38 @@
+[
+    {
+       "id":1,
+       "nombre":"naruto",
+       "opinion":"buenos productos!",
+       "img":"naruto.png"
+    },
+    {
+       "id":2,
+       "nombre":"Sasuke",
+       "opinion":"siempre ofertas",
+       "img":"sasuke.png"
+    },
+    {
+       "id":3,
+       "nombre":"Pain",
+       "opinion":"no me llego el producto",
+       "img":"pain.png"
+    },
+    {
+       "id":4,
+       "nombre":"Yiraiya",
+       "opinion":"sigo esperando",
+       "img":"yiraiya.png"
+    },
+    {
+       "id":5,
+       "nombre":"obito",
+       "opinion":"buena atencion",
+       "img":"obito.png"
+    },
+    {
+       "id":6,
+       "nombre":"kakashi",
+       "opinion":"productos de calidad",
+       "img":"kakashi.png"
+    }
+ ]
